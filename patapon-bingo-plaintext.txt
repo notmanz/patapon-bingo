@@ -55,6 +55,13 @@ Storm Juju
 Tailwind Juju
 White Papyrus Map
 
+Items (Countable):
+1 Ancient Equipment
+1 Divine Equipment
+1 Giant Equipment
+1 Piercing Equipment
+6 Fire Equipment
+
 Person / Rarepons:
 Barsala
 Gekolos
@@ -67,7 +74,23 @@ The Mountain Whisperer
 The Tree Whisperer
 Tikulee
 
-Quest:
+Side Quest:
+6 Eyes Tribute
+700 Ka-Ching from a Mission
+Destroy the Catapult
+Hit a Hiding Zigoton
+
+Quest (Hunting):
+Desert Flower
+Destroy 3 Beehives
+Destroy 5 Sunflowers
+Kill 1 Picheek
+Kill 2 Momoti
+Kill 3 Parcheek
+Kill 5 Motiti
+Sticks & Stones @ Plains
+
+Quest (Mission):
 Beat Cioking
 Beat Gaeen
 Beat Gorl
@@ -76,13 +99,12 @@ Beat Shookle
 Beat Shooshookle
 Burn Meden
 Dekadon vs Dekaton Tower
-Desert Flower
 No-Fail Despair
 No-Stew Baban
+No-Tatepon Strikes Back
 No-Wind of Promise
 No-Yaripon Desert Crossing
 No-Yumipon Escort
-Sticks & Stones @ Plains
 
 Quote:
 Aiton-n-n-n-n-n!!!

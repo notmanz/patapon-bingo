@@ -1,5 +1,14 @@
 [
 	{
+		"name": "1 Ancient Equipment"
+	},
+	{
+		"name": "1 Divine Equipment"
+	},
+	{
+		"name": "1 Giant Equipment"
+	},
+	{
 		"name": "3 Predator Pumpkin"
 	},
 	{
@@ -7,6 +16,12 @@
 	},
 	{	
 		"name": "5 Cherry Tree"
+	},
+	{
+		"name": "6 Eyes Tribute"
+	},	
+	{
+		"name": "6 Fire Equipment"
 	},	
 	{
 		"name": "9 Sticks"
@@ -25,6 +40,9 @@
 	},	
 	{
 		"name": "20 Cafeteria Meat"
+	},
+	{
+		"name": "700 Ka-Ching from a Mission"
 	},
 	{
 		"name": "2000+ Kaching"
@@ -87,6 +105,15 @@
 		"name": "Desert Flower"
 	},
 	{
+		"name": "Destroy 3 Beehives"
+	},
+	{
+		"name": "Destroy 5 Sunflowers"
+	},
+	{
+		"name": "Destroy the Catapult"
+	},
+	{
 		"name": "Don Drum"
 	},
 	{
@@ -147,10 +174,25 @@
 		"name": "Hinoki"
 	},
 	{
+		"name": "Hit a Hiding Zigoton"
+	},
+	{
 		"name": "I'm tired of this..."
 	},
 	{
 		"name": "Impressive... This Mighty Patapon has courage"
+	},
+	{
+		"name": "Kill 1 Picheek"
+	},
+	{
+		"name": "Kill 2 Momoti"
+	},
+	{
+		"name": "Kill 3 Parcheek"
+	},
+	{
+		"name": "Kill 5 Motiti"
 	},
 	{
 		"name": "LOL... What a joke..."
@@ -169,6 +211,9 @@
 	},
 	{
 		"name": "No-Stew Baban"
+	},
+	{
+		"name": "No-Tatepon Strikes Back"
 	},
 	{
 		"name": "No-Wind of Promise"
