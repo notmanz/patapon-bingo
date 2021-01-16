@@ -22,6 +22,9 @@
 	},	
 	{
 		"name": "6 Fire Equipment"
+	},
+	{
+		"name": "8 Lettuce"
 	},	
 	{
 		"name": "9 Sticks"
@@ -30,10 +33,10 @@
 		"name": "10 Tender Meat"
 	},
 	{
-		"name": "13 Stones"
+		"name": "12 Steel Equipment"
 	},
 	{
-		"name": "15 Lettuce"
+		"name": "13 Stones"
 	},
 	{
 		"name": "18 Leafs"
@@ -54,16 +57,28 @@
 		"name": "All Stew"
 	},
 	{
+		"name": "Animals Best Friend"
+	},
+	{
 		"name": "Are You Listening To Me?"
 	},
 	{
 		"name": "Awesome Alloy"
 	},
 	{
+		"name": "Backpedal Heroine"
+	},
+	{
 		"name": "Barsala"
 	},
 	{
 		"name": "Beat Cioking"
+	},
+	{
+		"name": "Beat Dodonga"
+	},
+	{
+		"name": "Beat Dogaeen"
 	},
 	{
 		"name": "Beat Gaeen"
@@ -79,6 +94,9 @@
 	},
 	{
 		"name": "Beat Shooshookle"
+	},
+	{
+		"name": "Beat Zaknel"
 	},
 	{
 		"name": "Beetleton's Helm"
@@ -99,9 +117,6 @@
 		"name": "Dark Palace Model"
 	},
 	{
-		"name": "Dekadon vs Dekaton Tower"
-	},
-	{
 		"name": "Desert Flower"
 	},
 	{
@@ -118,6 +133,12 @@
 	},
 	{
 		"name": "Earthquake Juju"
+	},
+	{
+		"name": "Finale?"
+	},
+	{
+		"name": "Flaming Bunny"
 	},
 	{
 		"name": "Gekolos"
@@ -174,6 +195,9 @@
 		"name": "Hinoki"
 	},
 	{
+		"name": "Hinoki @ Ooze"
+	},
+	{
 		"name": "Hit a Hiding Zigoton"
 	},
 	{
@@ -181,6 +205,9 @@
 	},
 	{
 		"name": "Impressive... This Mighty Patapon has courage"
+	},
+	{
+		"name": "Just Like Ancient Times..."
 	},
 	{
 		"name": "Kill 1 Picheek"
@@ -238,6 +265,9 @@
 	},
 	{
 		"name": "Pyokola"
+	},
+	{
+		"name": "Sacrifice Hatapon"
 	},
 	{
 		"name": "Scorpiton's Helm"

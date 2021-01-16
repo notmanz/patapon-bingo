@@ -25,10 +25,10 @@ Items (Ingredient):
 3 Predator Pumpkin
 4 Crying Carrot
 5 Cherry Tree
+8 Lettuce
 9 Sticks
 10 Tender Meat
 13 Stones
-15 Lettuce
 18 Leafs
 20 Cafeteria Meat
 2000+ Kaching
@@ -61,6 +61,7 @@ Items (Countable):
 1 Giant Equipment
 1 Piercing Equipment
 6 Fire Equipment
+12 Steel Equipment
 
 Person / Rarepons:
 Barsala
@@ -77,13 +78,21 @@ Tikulee
 Side Quest:
 6 Eyes Tribute
 700 Ka-Ching from a Mission
+Backpedal Heroine
+Burn Meden
 Destroy the Catapult
+Finale?
+Flaming Bunny
 Hit a Hiding Zigoton
+Just Like Ancient Times...
+Sacrifice Hatapon
 
 Quest (Hunting):
+Animals Best Friend
 Desert Flower
 Destroy 3 Beehives
 Destroy 5 Sunflowers
+Hinoki @ Ooze
 Kill 1 Picheek
 Kill 2 Momoti
 Kill 3 Parcheek
@@ -92,13 +101,14 @@ Sticks & Stones @ Plains
 
 Quest (Mission):
 Beat Cioking
+Beat Dodonga
 Beat Gaeen
+Beat Dogaeen
 Beat Gorl
 Beat Majidonga
 Beat Shookle
 Beat Shooshookle
-Burn Meden
-Dekadon vs Dekaton Tower
+Beat Zaknel
 No-Fail Despair
 No-Stew Baban
 No-Tatepon Strikes Back
